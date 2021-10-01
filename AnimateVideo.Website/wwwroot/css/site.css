@@ -1,0 +1,186 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2F3B45;
+}
+
+svg {
+    width: 100vw;
+}
+
+footer {
+    width: 100vw;
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 3rem;
+    justify-content: center;
+    overflow: hidden;
+    position: absolute;
+    width: 100vw;
+    height: 400px;
+    bottom: 0;
+    filter: url("#goo");
+}
+
+    footer h1 {
+        z-index: 2;
+        color: white;
+        font-family: "Ubuntu", sans-serif;
+        font-weight: lighter;
+        font-size: calc(2vmin + 8px);
+    }
+
+        footer h1 span {
+            font-weight: bold;
+            color: #FFA036;
+            text-shadow: 0 0 15px rgba(255, 160, 54, 0.4);
+        }
+
+    footer::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 225px;
+        clip-path: url("#wave");
+        background-color: #28323B;
+    }
+
+@media only screen and (max-width: 700px) {
+    footer::after {
+        clip-path: none;
+        height: 150px;
+    }
+}
+
+footer .ball {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #28323B;
+    position: absolute;
+    animation: up 5s cubic-bezier(0.18, 0.89, 0.32, 1.28) infinite;
+}
+
+@media only screen and (max-width: 700px) {
+    footer .ball {
+        animation: up-small 5s cubic-bezier(0.18, 0.89, 0.32, 1.28) infinite;
+    }
+}
+
+@keyframes up {
+    0% {
+        bottom: 0px;
+        width: 100px;
+        height: 100px;
+    }
+
+    50% {
+        bottom: 200px;
+    }
+
+    100% {
+        bottom: 0px;
+        width: 0px;
+        height: 0px;
+    }
+}
+
+@keyframes up-small {
+    0% {
+        bottom: 0px;
+        width: 100px;
+        height: 100px;
+    }
+
+    50% {
+        bottom: 150px;
+    }
+
+    100% {
+        bottom: 0px;
+        width: 0px;
+        height: 0px;
+    }
+}
+
