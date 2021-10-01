@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.exe
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.deps.json
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.runtimeconfig.json
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.dll
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\ref\Math With Different Data Types.dll
+C:\Users\Chadp\source\repos\Math With Different Data Types\bin\Debug\net5.0\Math With Different Data Types.pdb
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.dll
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\ref\Math With Different Data Types.dll
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.pdb
+C:\Users\Chadp\source\repos\Math With Different Data Types\obj\Debug\net5.0\Math With Different Data Types.genruntimeconfig.cache

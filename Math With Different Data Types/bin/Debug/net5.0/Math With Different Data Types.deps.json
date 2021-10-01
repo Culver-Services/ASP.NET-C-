@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Math With Different Data Types/1.0.0": {
+        "runtime": {
+          "Math With Different Data Types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Math With Different Data Types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
