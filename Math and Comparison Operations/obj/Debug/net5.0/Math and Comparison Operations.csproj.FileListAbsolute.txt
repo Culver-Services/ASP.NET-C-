@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.exe
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.deps.json
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.runtimeconfig.json
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.dll
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\ref\Math and Comparison Operations.dll
+C:\Users\Chadp\source\repos\Math and Comparison Operations\bin\Debug\net5.0\Math and Comparison Operations.pdb
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.dll
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\ref\Math and Comparison Operations.dll
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.pdb
+C:\Users\Chadp\source\repos\Math and Comparison Operations\obj\Debug\net5.0\Math and Comparison Operations.genruntimeconfig.cache
