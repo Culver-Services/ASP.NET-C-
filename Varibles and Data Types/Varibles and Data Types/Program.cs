@@ -35,7 +35,7 @@ namespace Varibles_and_Data_Types
 
             string myName = "Chad";
 
-            int currntAge = 28;
+            int currentAge = 28;
             string yearOld = currentAge.ToString(isRaining);
             Console.WriteLine(rainingStatus);
             Console.ReadLine();
