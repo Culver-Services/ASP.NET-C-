@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.exe
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.deps.json
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.runtimeconfig.json
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.dll
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\ref\Math Operation Assignment.dll
+C:\Users\Chadp\source\repos\Math Operation Assignment\bin\Debug\net5.0\Math Operation Assignment.pdb
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.dll
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\ref\Math Operation Assignment.dll
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.pdb
+C:\Users\Chadp\source\repos\Math Operation Assignment\obj\Debug\net5.0\Math Operation Assignment.genruntimeconfig.cache
