@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.exe
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.deps.json
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.runtimeconfig.json
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.dll
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\ref\IterationConsole.dll
+C:\Users\Chadp\source\repos\IterationConsole\bin\Debug\net5.0\IterationConsole.pdb
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.dll
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\ref\IterationConsole.dll
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.pdb
+C:\Users\Chadp\source\repos\IterationConsole\obj\Debug\net5.0\IterationConsole.genruntimeconfig.cache
