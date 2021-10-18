@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.exe
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.deps.json
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.runtimeconfig.json
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.dll
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ref\ConsoleAppGenetics.dll
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\bin\Debug\net5.0\ConsoleAppGenetics.pdb
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.dll
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ref\ConsoleAppGenetics.dll
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.pdb
+C:\Users\Chadp\source\repos\ConsoleAppGenetics\obj\Debug\net5.0\ConsoleAppGenetics.genruntimeconfig.cache
