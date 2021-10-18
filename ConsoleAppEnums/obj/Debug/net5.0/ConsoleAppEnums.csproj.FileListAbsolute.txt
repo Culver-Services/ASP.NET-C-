@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.exe
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.deps.json
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.runtimeconfig.json
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.dll
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ref\ConsoleAppEnums.dll
+C:\Users\Chadp\source\repos\ConsoleAppEnums\bin\Debug\net5.0\ConsoleAppEnums.pdb
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.dll
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ref\ConsoleAppEnums.dll
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.pdb
+C:\Users\Chadp\source\repos\ConsoleAppEnums\obj\Debug\net5.0\ConsoleAppEnums.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppEnums/1.0.0": {
+        "runtime": {
+          "ConsoleAppEnums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppEnums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
