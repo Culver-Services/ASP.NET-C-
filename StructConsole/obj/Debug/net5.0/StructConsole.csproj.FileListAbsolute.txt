@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.exe
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.deps.json
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.runtimeconfig.json
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.dll
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\ref\StructConsole.dll
+C:\Users\Chadp\source\repos\StructConsole\bin\Debug\net5.0\StructConsole.pdb
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.dll
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\ref\StructConsole.dll
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.pdb
+C:\Users\Chadp\source\repos\StructConsole\obj\Debug\net5.0\StructConsole.genruntimeconfig.cache
