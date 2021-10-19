@@ -19,8 +19,8 @@ namespace Lambda_Expression
             employees.Add(new Employee("Joe", "Culver", 5));
             employees.Add(new Employee("Chad", "Blues", 6));
             employees.Add(new Employee("Yellerton", "Soup", 7));
-            employees.Add(new Employee("Bill", "Burr5", 8));
-            employees.Add(new Employee("Joe", "Schmo", 9));
+            employees.Add(new Employee("Bill", "Burr", 8));
+            employees.Add(new Employee("Joe", "Hill", 9));
             employees.Add(new Employee("Joe", "Montana", 10));
 
             //create a list for employees with the name joe
