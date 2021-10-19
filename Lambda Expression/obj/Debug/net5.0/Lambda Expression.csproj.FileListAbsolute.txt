@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.exe
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.deps.json
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.runtimeconfig.json
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.dll
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\ref\Lambda Expression.dll
+C:\Users\Chadp\source\repos\Lambda Expression\bin\Debug\net5.0\Lambda Expression.pdb
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.dll
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\ref\Lambda Expression.dll
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.pdb
+C:\Users\Chadp\source\repos\Lambda Expression\obj\Debug\net5.0\Lambda Expression.genruntimeconfig.cache
