@@ -1,0 +1,16 @@
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.exe
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.deps.json
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.runtimeconfig.json
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.runtimeconfig.dev.json
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.dll
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\ref\File-IO-ConsoleApp.dll
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\bin\Debug\net5.0\File-IO-ConsoleApp.pdb
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.AssemblyInfo.cs
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.dll
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\ref\File-IO-ConsoleApp.dll
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.pdb
+C:\Users\Chadp\source\repos\File-IO-ConsoleApp\obj\Debug\net5.0\File-IO-ConsoleApp.genruntimeconfig.cache
